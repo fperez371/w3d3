@@ -1,0 +1,15 @@
+body {
+    margin: 15px;
+    padding: 0px;
+    font: inherit;
+    line-height: 1.5;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+} 
+
+img {
+    width: inherit;
+}
